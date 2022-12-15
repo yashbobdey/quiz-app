@@ -1,0 +1,45 @@
+.main-qna-container{
+    margin: 6rem auto;
+    background-color: white;
+    width: 60rem;
+    max-width: 90%;
+    height: 28rem;
+   
+}
+.qna-subcontainer{
+    margin: 0 auto;
+    width: 90%;
+
+}
+.question-area{
+   padding-top: 1rem;
+   margin: 2rem auto;
+   text-align: center;
+}
+@media (min-width:768px){
+    .question-area{
+        padding-top: 4rem;
+     }
+}
+.answer-area{
+    margin: 1rem auto;
+    max-width: 80%;
+    padding: 4px 1px;
+    text-align: center;
+    background-color: rgb(233, 239, 239);
+}
+.answer-area:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}
+.next-btn{
+    width: 10rem;
+    float: right;
+}
+.loader{
+    margin-top: 15rem;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}

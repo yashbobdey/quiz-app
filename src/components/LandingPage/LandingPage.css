@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(233, 239, 239)
+}
+
+.main-card{
+    margin: 7rem auto;
+    width: 35rem;
+    max-width: 80%;
+   
+}
+.card-content{
+    margin: 0 auto;
+    width: 90%;
+}
+.form-input{
+   background-color:rgb(233, 239, 239);
+    width: 90%;
+    border: none;
+    border-radius: 5px;
+}
+.form-input:hover{
+    border: 2px solid black;
+}
+.start-btn{
+    width: 90%;
+}

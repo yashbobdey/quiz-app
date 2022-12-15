@@ -1,0 +1,17 @@
+.modal-title{
+    margin: 0 auto;
+   text-align: center;
+    
+}
+.result-percentage{
+    margin: 0 auto;
+    text-align: center;
+    font-weight: lighter;
+}
+.progress-bar{
+    width: 100%;
+}
+.inner-bar{
+    margin: 0 auto;
+    width: 50%;
+}
